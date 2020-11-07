@@ -1,0 +1,288 @@
+*  {
+	margin: 0;
+	padding:0;
+	font-family: Montserrat;
+}
+
+.container-fluid {
+	min-height: 800px;
+	background: #F9F6F1;
+	padding-top: 61px;
+}
+
+.btn{
+	background-color: transparent;
+}
+
+.btn-link{
+	background-color: transparent;
+	font-weight: 400;
+	color: #000;
+}
+
+.logo, .run, .three_men, .img_four, .five_img {
+	max-width: 100%; 
+	height: auto;
+}
+
+.zr {
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: #000000;
+}
+
+.scid {
+	font-style: normal;
+	font-weight: bold;
+	font-size: 55px;
+	line-height: 67px;
+	color: #000000;
+}
+
+.button {
+	background: #D7B399;
+	cursor: pointer;		
+	padding: 25px 40px;
+	outline: none;
+	border: none;	
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 20px;
+	letter-spacing: 0.03em;
+	color: #FFFFFF;
+}
+
+button:hover{
+	background: pink;
+	border:0.5px solid black;
+}
+
+.run {
+	/* padding-top: 138px;
+	padding-bottom: 130px; */
+}
+
+.op {
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 17px;
+	letter-spacing: 0.03em;
+	color: #212121;
+	max-width: 100%; 
+	height: auto;
+}
+
+/* Вторая секция */
+.two{
+	min-height: 235px;
+	background: #212121;
+	padding: 80px 0 69px 0;
+}
+
+.two_text{
+	color: #FFFFFF;
+	font-size: 30px;
+	text-align: center;
+	letter-spacing: 0.02em;
+	margin-bottom: 23px;
+	font-weight: bold;
+}
+
+.two_text_little{
+	font-weight: 300;
+	font-size: 21px;	
+	color: #FFFFFF;
+	text-align: center;
+}
+
+/* 3 секция  */
+
+.three {
+	min-height: 250px;
+	background: #F4F4F4;
+	padding-top:60px;
+}
+
+.three_header {
+	font-weight: 100;
+	font-size: 24px;
+	letter-spacing: 0.03em;
+	color: #000000;
+	padding-bottom: 25px;
+}
+
+.three_header_little {
+	font-weight: 300;
+	font-size: 16px;
+	line-height: 20px;
+	color: #000000;	
+	padding-bottom: 40px;
+}
+
+.button_two {
+	background: #D7B399;
+	width: 80px;
+	height: 30px;
+	border: none;
+}
+
+.three_men {
+	width: 190px;
+	padding-top: 19px;
+}
+/* 4 секция */
+.four {
+	min-height: 472px;
+	padding-bottom: 150px;
+}
+
+.four_text {
+	padding: 186px 0 26px 0;
+	font-weight: 300;
+	font-size: 21px;
+	letter-spacing: 0.03em;
+	color: #000000;
+}
+
+/* 5 секция  */
+.five{
+	min-height: 649px;
+}
+
+.five_header {
+	font-weight: bold;
+	font-size: 36px;
+	letter-spacing: 0.04em;
+	color: #212121;
+	text-transform: uppercase;
+	padding-bottom: 103px;
+}
+
+.five_wrapper {
+	border: 3px solid #D7B399;
+	margin: 0 auto;
+	padding-top:22px;
+	margin-bottom: 103px;
+}
+
+.five_img {
+	width: 100%;
+	padding-bottom: 25px;
+	/* height: 211px; */
+}
+
+.five_descr {
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+	text-align: center;
+	color: #000000;	
+	margin: 0 auto;
+	padding-bottom: 15px;
+}
+
+.five_cost {
+	color: #D7B399;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.button_five {
+	background: #D7B399;
+	width: 220px;
+	height: 55px;
+	letter-spacing: 0.03em;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-bottom: 150px;
+	border: none;
+}
+
+/* 6 секция  */ 
+.six {
+	min-height: 180px;
+	padding: 72px 0 71px 0;
+	background: #212121;
+	margin-bottom: 150px;
+}
+
+.six_text {
+	text-align: left;
+	letter-spacing: 0.02em;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+input {
+	width: 255px;
+	height: 40px;	
+	color: #8D8D8D;
+	font-weight: 300;
+	font-size: 12px;
+	padding-left: 20px;
+}
+
+.six_button {
+	background: #D7B399;
+	width: 185px;
+	height: 40px;
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: 500;
+	font-size: 14px;
+	border:none;
+	cursor: pointer;
+	border: none;
+}
+
+/* 8 секция */
+.eightc {
+	min-height: 300px;
+	background: #212121;
+	color: #ffffff;
+}
+
+.logo1 {
+	max-width: 50%; 
+	height: auto;
+	color: #ffffff;	
+}
+
+.eight_text {
+	font-weight: 300;
+	font-size: 8px;
+	color: #ffffff;	
+	font-weight: bold;
+	font-size: 10px;
+	text-transform: uppercase;
+	color: #FFFFFF;	
+}
+
+.eight_text1 {
+	font-weight: 300;
+	font-size: 14px;
+	color: #ffffff;		
+}
+
+.vk {
+	max-width: 20%; 
+	height: auto;
+	padding-right: 5px;
+}
+
+.eight__text {
+	width: 200px;
+}
+
+.mt-2 {	
+color: #CBCFD4;
+font-weight: normal;
+font-size: 14px
+}
+
